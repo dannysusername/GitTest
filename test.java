@@ -8,7 +8,7 @@ public class test {
         stellaM.newTech();
         System.out.println("ttt");
         System.out.println("t");
-        System.out.println("f");
+        System.out.println("ff");
     }
 
     public int add(int a, int b) {
