@@ -7,6 +7,8 @@ public class test {
         newtech stellaM = new newtech();
         stellaM.newTech();
         System.out.println("ttt");
+        System.out.println("t");
+        System.out.println("f");
     }
 
     public int add(int a, int b) {
