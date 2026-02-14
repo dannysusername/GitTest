@@ -43,7 +43,7 @@ public class newtech {
                 } else if (choice == 2) {
                     System.out.println("Come here raider!");
                 } else {
-                    System.out.println("Dont shoot!");
+                    System.out.println("Dont shoot!ttt");
                 }
 
                 break;
